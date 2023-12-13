@@ -1,0 +1,8 @@
+Factory\RecuFactory.class
+step_definition\LoginStep.class
+step_definition\RecuStep.class
+Module\Hooks.class
+Module\TestRun.class
+Factory\LoginFactory.class
+step_definition\ProfilStep.class
+Factory\ProfilFactory.class
